@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "Making sharable documents with Quarto" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
+  site-url: "https://GeneralStubbs.github.io/quarto-website-tutorial" 
+  repo-url: https://github.com/GeneralStubbs/quarto-website-tutorial 
   repo-actions: [edit, issue]
   
   page-footer:
@@ -18,14 +18,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
+        href: https://quartech.com
+        text: "Quartech.com"
       - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
+        href: https://github.com/GeneralStubbs/quarto-website-tutorial
         text: "Quarto website tutorial"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
 
     style: "docked"
     search: true
